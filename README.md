@@ -1,2 +1,0 @@
-JoshuaWright/CV
-Coding Projects
